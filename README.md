@@ -1,47 +1,23 @@
-# Silly Servos 2024-2025
+# Silly Servos 2025-2026
 Code repository for the Silly Servos Robotics Team #24213 at Highland Park High School
 <br>
-2024-2025 FTC Into the Deep
+2025-2026 FTC Decode
 <br>
 GitHub repository created and maintained by Jacob Kaiserman
 <br>
 <a href="https://github.com/jpkaiser2/SillyServosInProgress">Repository for in-progress code</a>
 <br>
-<a href="https://docs.google.com/document/d/15a6Kx4hhvg7xoEqnfevrWVvtjShQDiLi5pLFm73jV9Q/edit?usp=sharing">Autonomous Sequence Log</a>
 <br>
 <img src="https://jacobkaiserman.com/sillyServos-2023-2024/images/hpRobotics.png" width="30%" style="display:inline;">
-<img src="https://jacobkaiserman.com/sillyServos-2024-2025/images/ftcDeepLogo.png" width="20%" style="display:inline;">
 <br>
-<h1>Robot Controls</h1>
-<img src="https://jacobkaiserman.com/sillyServos-2023-2024/controller.png">
-<p>Forward: left joystick (3) up</p>
-<p>Backward: left joystick (3) down</p>
-<p>Left: left joystick (3) left</p>
-<p>Right: left joystick (3) right</p>
-<p>Turn right: right joystick (4) right</p>
-<p>Turn left: right joystick (4) left</p>
-<p>Arm up: RB (2)</p>
-<p>Arm down: LB (1)</p>
-<p>Claw open: A (7)</p>
-<p>Claw close: X (8)</p>
+
 <h2>About the Code</h2>
 <h1>How the Code Works</h1>
 <p>We will add this section later in the season when our code is complete.</p>
 <h1>Resources</h1>
 <p>Below you can find helpful sites, explanations, and a setup guide on GitHub.</p>
 <h2>Helpful Websites</h2>
-<ul>
-  <li><a href="https://ftc-resources.firstinspires.org/file/ftc/game/manual">Official FTC Game Manual</a></li>
-  <li><a href="https://gm0.org">Game Manual 0</a></li>
-  <li><a href="https://learnroadrunner.com/">Learn Road Runner</a></li>
-  <li><a href="https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/onbot-java-guide.pdf">OnBot Java Guide: Electronics Setup to Programming</a></li>
-  <li><a href="https://raw.githubusercontent.com/alan412/LearnJavaForFTC/master/LearnJavaForFTC.pdf">Learn Java for FTC</a></li>
-  <li><a href="https://ftc-docs.firstinspires.org/en/latest/">FIRST Tech Challenge Documentation</a></li>
-  <li><a href="https://portfolios.hivemindrobotics.net/ftc">Example Portfolios</a></li>
-  <li><a href="https://github.com/FIRST-Tech-Challenge/FtcRobotController">FtcRobotController</a></li>
-  <li><a href="https://www.w3schools.com/java/java_oop.asp">Object-Oriented Programming in Java (W3 Schools)</a></li>
-  <li><a href="https://www.reddit.com/r/ftc">FTC Subreddit</a></li>
-</ul>
+
 <h2>Using GitHub</h2>
 <h3>What is GitHub?</h3>
 <p>Imagine GitHub as a digital workspace where you and others can collaborate on building things together. Think of it like a shared online notebook for writing code.</p>
@@ -90,8 +66,6 @@ GitHub repository created and maintained by Jacob Kaiserman
 
 <h2>Road Runner</h2>
 <ul>
-
-
 
   <li>Road Runner drive constants explanation: <a href="https://learnroadrunner.com/drive-constants.html#drive-constants" target="_blank">https://learnroadrunner.com/drive-constants.html#drive-constants</a></li>
 </ul>
